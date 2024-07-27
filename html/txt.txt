@@ -1,0 +1,100 @@
+
+
+mobile dev :
+    mobile app : java,
+
+web :
+    websites :- webpages 
+
+    static web pages 
+    dynamic web pages
+
+--------------------------------
+
+HTML markup lang 
+html only support 
+
+--------------------
+html 5 2014
+HTML 4
+
+------------------------------------------
+vs code 
+
+.c
+.html --> extensions
+
+
+<!DOCTYPE html>
+--> Document type html 
+
+<html lang="en">
+--> in html we use english lang
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+------------------------------------------------------------------------------------
+
+heading tags 
+
+h1 --> max
+h2
+h3
+h4
+h5
+h6 --> min
+
+
+there is size difference between h1 to h6
+
+
+bold ==> <b> and <strong>
+italic ==> <i> and <em>
+underline ==> <u> and inserted 
+delete ==> <del> and strikex
+high light ==> <mark>
+
+<b> BOLD
+<i> italic
+<emp> EMPHASIS
+<mark> MARK
+<del> DELETE
+<ins> INSERT
+<u> UNDERLINE
+<strong> STRONG
+<small>
+<sub> SUBSCRIPT
+<sup> SUPERSCRIPT
+<pre> PRE
+
+-------------------------------------------------------------------
+
+in paragraph tag we write lorem100 short cut --> then we got a 100 words paragraph
+pre tag --> preformatted text
+
+Images insert total 2 Ways
+
+ <!-- 1st way to insert image  1
+        1st Way is insert image from google
+
+        what is src ?  ==> source
+        what is alt ? ==> altranet
+    -->
+
+ <!-- 
+        2nd way is insert image from download 
+     -->
+
+----------------------------------------------------------------
+
+br :- breake the cont line
+&nbsp :- for the space between any two objects (images, text, headings, etc......)
+
